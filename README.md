@@ -67,86 +67,56 @@ Enable interactive slicing by time, product, location, etc., to support business
 #### Dashboard provides a detailed analysis of product performance based on three key metrics: Sales, Quantity Sold, and Profit. The data is split into two main categories for each metric: the Top 5 and Bottom 5 products. Here is a breakdown:
 
 Top 5 Products By Sales:
-
--  1. Apple iPhone 14: Leading in sales with 21.4M.
-
--  2. Apple MacBook Air: 19.6M sales.
-
--  3. Sony Bravia 55" TV: 19.4M sales.
-
--  4. Samsung Galaxy S21: 15.3M sales.
-
--  5. HP Pavilion Laptop: 14.4M sales.
+  1. Apple iPhone 14: Leading in sales with 21.4M.
+  2. Apple MacBook Air: 19.6M sales.
+  3. Sony Bravia 55" TV: 19.4M sales.
+  4. Samsung Galaxy S21: 15.3M sales.
+  5. HP Pavilion Laptop: 14.4M sales.
 
   Insight: High-value electronics dominate the top sales positions.
 
 Bottom 5 Products By Sales:
-
--  1. Tupperware Lunch Box: 0.26M.
-
--  2. L’Oreal Shampoo: 0.17M.
-
--  3. Nivea Body Lotion: 0.08M.
-
--  4. Dove Soap Pack: 0.08M.
-
--  5. Colgate Toothpaste: 0.02M.
+  1. Tupperware Lunch Box: 0.26M.
+  2. L’Oreal Shampoo: 0.17M.
+  3. Nivea Body Lotion: 0.08M.
+  4. Dove Soap Pack: 0.08M.
+  5. Colgate Toothpaste: 0.02M.
 
 Insight: Everyday consumer goods have the lowest sales figures.
 
 Top 5 Products By Quantity Sold:
-
--  1. Apple iPhone 14: 281 units.
-
--  2. Raymond Suit: 274 units.
-
--  3. Fossil Smartwatch: 269 units.
-
--  4. Zara Casual Shirt: 269 units.
-
--  5. IFB Microwave Oven: 259 units.
+  1. Apple iPhone 14: 281 units.
+  2. Raymond Suit: 274 units.
+  3. Fossil Smartwatch: 269 units.
+  4. Zara Casual Shirt: 269 units.
+  5. IFB Microwave Oven: 259 units.
 
 Insight: Mix of electronics, apparel, and appliances in high demand by quantity.
 
 Bottom 5 Products By Quantity Sold:
-
--  1. Nivea Body Lotion: 219 units.
-
--  2. Tupperware Lunch Box: 215 units.
-
--  3. Milton Thermos Flask: 214 units.
-
--  4. FabIndia Kurta: 210 units.
-
--  5. Borosil Glass Set: 203 units.
+  1. Nivea Body Lotion: 219 units.
+  2. Tupperware Lunch Box: 215 units.
+  3. Milton Thermos Flask: 214 units.
+  4. FabIndia Kurta: 210 units.
+  5. Borosil Glass Set: 203 units.
 
 Insight: Lower quantities sold in personal care and household items.
 
 Top 5 Products By Profit:
-
--  1. Apple iPhone 14: 2.14M profit.
-
--  2. Apple MacBook Air: 1.96M profit.
-
--  3. Sony Bravia 55" TV: 1.94M profit.
-
--  4. Samsung Galaxy S21: 1.53M profit.
-
--  5. HP Pavilion Laptop: 1.44M profit.
+  1. Apple iPhone 14: 2.14M profit.
+  2. Apple MacBook Air: 1.96M profit.
+  3. Sony Bravia 55" TV: 1.94M profit.
+  4. Samsung Galaxy S21: 1.53M profit.
+  5. HP Pavilion Laptop: 1.44M profit.
 
 Insight: High-ticket consumer electronics are also the most profitable.
 
 Bottom 5 Products By Profit:
-
-- 1. Tupperware Lunch Box: 26K.
-
-- 2. L’Oreal Shampoo: 17K.
-
-- 3. Nivea Body Lotion: 8K.
-
-- 4. Dove Soap Pack: 8K.
-
-- 5. Colgate Toothpaste: 2K.
+ 1. Tupperware Lunch Box: 26K.
+ 2. L’Oreal Shampoo: 17K.
+ 3. Nivea Body Lotion: 8K.
+ 4. Dove Soap Pack: 8K.
+ 5. Colgate Toothpaste: 2K.
 
 Insight: Low-value daily essentials yield the lowest profits.      
 
